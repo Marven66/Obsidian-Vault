@@ -1,0 +1,11 @@
+- [ ] Shoes
+- [ ] Black Jeans
+- [ ] 9 pm night out
+- [ ] hoodie 
+- [ ] T-shirt
+- [ ] Watch Strap
+- [ ] 8 Gb Ram
+- [ ] Ring
+- [ ] Necklace
+- [ ] bracelet
+- [ ] 

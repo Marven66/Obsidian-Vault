@@ -1,11 +1,17 @@
 - [ ] Shoes
 - [ ] Black Jeans
 - [ ] 9 pm night out
+- [ ] stronger with you
+- [ ] hawas Ice
+- [ ] assad
+- [ ] Perfume tester
 - [ ] hoodie 
 - [ ] T-shirt
 - [ ] Watch Strap
+- [ ] Watch (Not Smart)
 - [ ] 8 Gb Ram
 - [ ] Ring
 - [ ] Necklace
 - [ ] bracelet
-- [ ] 
+- [ ] Headset
+- [ ] wireless controller

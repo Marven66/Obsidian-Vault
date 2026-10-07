@@ -9,9 +9,10 @@
 - [ ] T-shirt
 - [ ] Watch Strap
 - [ ] Watch (Not Smart)
-- [ ] 8 Gb Ram
+- [ ] 8 Gb Ram (Laptop)
 - [ ] Ring
 - [ ] Necklace
 - [ ] bracelet
 - [ ] Headset
 - [ ] wireless controller
+- [ ] clogs

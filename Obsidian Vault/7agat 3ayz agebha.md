@@ -1,9 +1,11 @@
 - [ ] Shoes
 - [ ] Black Jeans
-- [ ] 9 pm night out
-- [ ] stronger with you
-- [ ] hawas Ice
-- [ ] assad
+- [ ] 9 pm night out Perfume
+- [ ] stronger with you Perfume
+- [ ] hawas Ice Perfume
+- [ ] assad Perfume
+- [ ] Signature gold Perfume 
+- [ ] Strike Perfume
 - [ ] Perfume tester
 - [ ] hoodie 
 - [ ] T-shirt

@@ -9,6 +9,8 @@
 	- [ ] lec 4
 	- [ ] lec 5
 	- [ ] lec 6
+	- [ ] lec 7
+	- [ ] half lec 8
 	 
 3. Signals
 	- [ ] Lec 1
